@@ -1,0 +1,18 @@
+*{
+    font-family: 'Poppins', sans-srif;
+}
+
+
+
+.banner{
+    background-image: url("images/Template\ yellow.jpg");
+    padding: 230px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+.skills-padding{
+    padding: 70px 0;
+    
+}
